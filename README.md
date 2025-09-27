@@ -22,4 +22,4 @@ https://github.com/user-attachments/assets/a6189274-ac4f-4a95-9059-5d77f78a84eb
 
 Reflection:
 - While coding I learned what textures actually are (I missed the 9/19 lecture)
-- Even though I had to copy and paste code for each object, I had to pay close attention to the numbers and scales I was using
+- Even though I had to copy and paste the same code for each object basically , I had to pay close attention to the numbers and scales I was using. Made a few mistakes in numbers where the items disappeared from the frame but it works now. 
