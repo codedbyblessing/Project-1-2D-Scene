@@ -19,6 +19,7 @@ https://github.com/user-attachments/assets/a6189274-ac4f-4a95-9059-5d77f78a84eb
 
 </p>
 Movement:
+
 - The fish is bouncing and pulsing (scaling) diagnolly in a square in the upper right part of the frame
 - The elephant is rotating in an orbit, origin around center of the frame
 - The music note is tilting slightly as it moves up in down.
